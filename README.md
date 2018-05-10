@@ -10,6 +10,7 @@ Additionally, the term "transclusion" was invented in the angular community not 
 * [react-tunnels](https://github.com/javivelasco/react-tunnels)
 * [react-slot-fill](https://github.com/camwest/react-slot-fill)
 * [react-page-layout](https://github.com/monvillalon/react-page-layout)
+* [react-slot](https://github.com/dschnare/react-slot)
 
 
 ## Contributing
